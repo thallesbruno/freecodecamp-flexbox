@@ -16,18 +16,30 @@ html, body{
     margin: 10px;
 }
 
+ul{
+    display: none;
+}
+
 .container > li:nth-child(1){
+    list-style-type: none;
     background-color: #96ceb4;
+    color: #ffeead;
 }
 
 .container > li:nth-child(2){
+    list-style-type: none;
     background-color: #96ceb4;
+    color: #ffeead;
 }
 
 .container > li:nth-child(3){
+    list-style-type: none;
     background-color: #96ceb4;
+    color: #ffeead;
 }
 
 .container > li:nth-child(4){
+    list-style-type: none;
     background-color: #96ceb4;
+    color: #ffeead;
 }

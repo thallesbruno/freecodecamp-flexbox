@@ -1,0 +1,17 @@
+.container > divli{
+    padding: 10px;
+    text-align: center;
+    font-size: 2em;
+    color: #ffeead;
+}
+
+body{
+    margin: 0;
+}
+
+html, body{
+    box-sizing: border-box;
+    height: 100%;
+    background-color: #ffeead;
+    margin: 10px;
+}
